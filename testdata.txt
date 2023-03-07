@@ -1,0 +1,18 @@
+SAMPLE CATEGORY REQUEST:
+{
+    "category_name": "Sporting Goods"
+}
+
+SAMPLE PRODUCT REQUEST:
+{
+    "product_name": "Basketball",
+    "price": 200.00,
+    "stock": 3,
+    "category_id": 6,
+    "tagIds": [4, 7]
+}
+
+SAMPLE TAG REQUEST:
+{
+    "tag_name": "orange"
+}
